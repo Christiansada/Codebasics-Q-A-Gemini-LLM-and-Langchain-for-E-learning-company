@@ -21,12 +21,12 @@ This is an end-to-end LLM project based on Gemini and Langchain. We are building
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/codebasics/langchain.git
+  git clone https://github.com/Christiansada/Codebasics-Q-A-Gemini-LLM-and-Langchain-for-E-learning-company-
 ```
 2.Navigate to the project directory:
 
 ```bash
-  cd 3_project_codebasics_q_and_a
+  cd Codebasics-Q-A-Gemini-LLM-and-Langchain-for-E-learning-company-
 ```
 3. Install the required dependencies using pip:
 
